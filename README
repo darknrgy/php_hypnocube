@@ -1,0 +1,6 @@
+The main interface to the hypnocube lives in hypnocube.class.php. You will also need a utility called serproxy, available from 
+http://www.lspace.nildram.co.uk/freeware.html. The hypnocube interface talks through serproxy, which is a serial port -> socket 
+adapter. 
+
+This is a pretty badly organized bit of code that I made for my own amusement and uploaded to git-hub as my first project there. 
+Use at your own risk. 
